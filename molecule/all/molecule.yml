@@ -17,6 +17,8 @@ platforms:
 
 provisioner:
   name: ansible
+  connection_options:
+    ansible_remote_tmp: /tmp
   playbooks:
     prepare: prepare.yml
     converge: playbook.yml
