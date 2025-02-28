@@ -19,6 +19,7 @@ provisioner:
   name: ansible
   connection_options:
     ansible_remote_tmp: /tmp
+    ansible_python_interpreter: auto_silent
   playbooks:
     prepare: prepare.yml
     converge: playbook.yml

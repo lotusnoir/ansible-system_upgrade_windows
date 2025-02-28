@@ -4,7 +4,7 @@ galaxy_info:
   role_name: system_upgrade_windows
   description: "Upgrade system"
   license: "Apache License, Version 2.0"
-  min_ansible_version: 2.8
+  min_ansible_version: "2.8"
 
   platforms:
     - name: "Windows"
