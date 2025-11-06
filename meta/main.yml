@@ -7,6 +7,12 @@ galaxy_info:
   min_ansible_version: "2.8"
 
   platforms:
+    - name: "Rocky"
+      versions:
+        - "10"
+    - name: "OracleLinux"
+      versions:
+        - "10"
     - name: "Windows"
       versions:
         - "2019"
