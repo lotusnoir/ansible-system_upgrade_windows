@@ -3,8 +3,7 @@
 [![Galaxy Role](https://img.shields.io/badge/galaxy-system_upgrade_windows-purple?style=flat)](https://galaxy.ansible.com/lotusnoir/system_upgrade_windows)
 [![Version](https://img.shields.io/github/release/lotusnoir/ansible-system_upgrade_windows.svg)](https://github.com/lotusnoir/ansible-system_upgrade_windows/releases/latest)
 [![GitHub repo size](https://img.shields.io/github/repo-size/lotusnoir/ansible-system_upgrade_windows?color=orange&style=flat)](https://galaxy.ansible.com/lotusnoir/system_upgrade_windows)
-[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/lotusnoir/system_upgrade_windows)
-[![Ansible Quality Score](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/lotusnoir/system_upgrade_windows)
+[![downloads](https://img.shields.io/ansible/role/d/lotusnoir/system_upgrade_windows)](https://galaxy.ansible.com/lotusnoir/system_upgrade_windows)
 [![License](https://img.shields.io/badge/license-Apache--2.0-brightgreen?style=flat)](https://opensource.org/licenses/Apache-2.0)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
