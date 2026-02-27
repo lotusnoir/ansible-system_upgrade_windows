@@ -2,6 +2,8 @@
 ### Checks
 - name: Import check tasks
   ansible.builtin.import_tasks: check.yml
+  when:
+    - ansible_os_family != "Windows"
   tags: always
 
 ### Import vars
